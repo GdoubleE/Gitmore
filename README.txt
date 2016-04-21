@@ -6,3 +6,4 @@ Feature2
 
 Fixed bug #1234
 
+Fixed v1.0
